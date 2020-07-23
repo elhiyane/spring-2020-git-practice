@@ -7,3 +7,5 @@ Bentley
 Kia
 Tesla
 Buik
+Jeep
+Fiat
