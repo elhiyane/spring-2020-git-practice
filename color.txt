@@ -6,3 +6,5 @@ pink
 Orange
 ###Brown
 Purple
+White
+Gold
