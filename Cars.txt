@@ -4,3 +4,6 @@ Honda
 BMW
 Jaguar
 Bentley
+Kia
+Tesla
+Buik
